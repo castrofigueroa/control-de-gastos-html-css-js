@@ -1,4 +1,4 @@
-# control-de-gastos-html-css-js
+# Control de Gastos familiares
 
 ## Objetivo
 
